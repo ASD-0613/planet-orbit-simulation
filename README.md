@@ -33,18 +33,3 @@
 | 开发环境 | Jupyter Notebook, PyCharm |
 
 ---
-
-##  物理模型
-
-太阳固定在原点，行星在引力作用下运动：
-
-$$\frac{d^2\vec{r}}{dt^2} = -\frac{GM}{r^3}\vec{r}$$
-
-化为一阶方程组：
-
-$$\begin{cases} \dot{x} = v_x \\ \dot{y} = v_y \\ \dot{v}_x = -GMx/r^3 \\ \dot{v}_y = -GMy/r^3 \end{cases}$$
-
-采用**天文单位制**（AU, yr, M☉），此时 $GM = 4\pi^2$。
-
----
-
