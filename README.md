@@ -31,3 +31,8 @@ pip install -r requirements.txt
 
 # 启动 Notebook
 jupyter notebook planet_orbit.ipynb
+├── planet_orbit.ipynb      # 主程序（含完整推导与代码）
+├── requirements.txt        # Python 依赖
+├── images/                 # 输出图片
+└── README.md              # 本文件
+
