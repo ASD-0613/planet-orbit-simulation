@@ -101,3 +101,6 @@ $$GM_\odot = 4\pi^2 \approx 39.478$$
 ---
 
 ## 依赖库
+numpy
+matplotlib
+scipy
