@@ -25,12 +25,14 @@ $$\frac{d^2\vec{r}}{dt^2} = -\frac{GM_\odot}{r^3}\vec{r}$$
 
 化为一阶微分方程组，定义状态向量 $\vec{y} = (x,\ y,\ v_x,\ v_y)^T$：
 
-$$\begin{cases}
+$$
+\begin{cases}
 \dfrac{dx}{dt} = v_x \\[10pt]
 \dfrac{dy}{dt} = v_y \\[10pt]
 \dfrac{dv_x}{dt} = -\dfrac{GM_\odot}{r^3}x \\[10pt]
 \dfrac{dv_y}{dt} = -\dfrac{GM_\odot}{r^3}y
-\end{cases}$$
+\end{cases}
+$$
 
 其中 $r = \sqrt{x^2 + y^2}$。
 
