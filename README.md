@@ -27,9 +27,9 @@ $$\frac{d^2\vec{r}}{dt^2} = -\frac{GM_\odot}{r^3}\vec{r}$$
 
 $$
 \begin{cases}
-\dfrac{dx}{dt} = v_x \\[10pt]
-\dfrac{dy}{dt} = v_y \\[10pt]
-\dfrac{dv_x}{dt} = -\dfrac{GM_\odot}{r^3}x \\[10pt]
+\dfrac{dx}{dt} = v_x \\
+\dfrac{dy}{dt} = v_y \\
+\dfrac{dv_x}{dt} = -\dfrac{GM_\odot}{r^3}x \\
 \dfrac{dv_y}{dt} = -\dfrac{GM_\odot}{r^3}y
 \end{cases}
 $$
